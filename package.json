@@ -1,7 +1,7 @@
 {
   "name": "Senura_MD",
   "version": "1.0.0",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By King-Senura",
   "main": "start.js",
   "scripts": {
     "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
