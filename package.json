@@ -23,6 +23,7 @@
     "buffer": "6.0.3",
     "cheerio": "^1.1.0",
     "crypto": "1.0.1",
+    "upscaler": "^1.0.0",
     "css-select": "5.1.0",
     "express": "latest",
     "ffmpeg": "^0.0.4",
